@@ -1,20 +1,14 @@
-# ComputerGraphics
-Ray Tracing Shapes Adventure
+# 
+Description:
 
-Overview:
-Welcome to the Ray Tracing Shapes Adventure, a fun and educational project designed to teach kids about different shapes using the exciting world of ray tracing!
+The project is an interactive educational project designed to introduce children to the vibrant world of shapes, colors, letters, and numbers. This immersive experience combines the power of WebGL technology with engaging content to create a playful environment that makes learning a joyous adventure for young minds.
 
-In this project, kids will embark on a journey through colorful and dynamic scenes, interacting with rays of light to discover and learn about various shapes. The goal is to make learning engaging and enjoyable through the exploration of 3D graphics and the magic of ray tracing.
+Key Features:
 
-Features:
+Shapes Galore: Delight in a variety of shapes, from basic to more intricate forms, fostering a solid foundation in spatial awareness.
 
-Interactive Learning:
+Colorful Exploration: Dive into a spectrum of colors, encouraging creativity and recognition through visually stimulating activities.
 
-Kids can interact with the scenes using a simple user interface, clicking on shapes to see how light interacts with them.
+Letter Safari: Embark on a letter safari, where each letter becomes a character in an exciting story, making the alphabet come to life.
 
-Shape Exploration:
-
-Explore common shapes such as circles, squares, triangles, and more in a visually engaging 3D environment.
-Ray Tracing Magic:
-
-Witness the magic of ray tracing as beams of light interact with different shapes, casting shadows and creating reflections
+Number Quest: Join a numerical quest filled with interactive challenges that make learning numbers a dynamic and entertaining experience.
